@@ -49,5 +49,5 @@ console.table(inventorsName)
 </details> 
 
 For full details of my learning & what you can learn from this challenge, plz see my blog post-
-<a href="#">JavaScript30: Day 4 - Solve Real Life challenges using Array Methods
+<a href="https://dev.to/akdeberg/javascript30-day-4-solve-real-life-challenges-using-array-methods-4m2i">JavaScript30: Day 4 - Solve Real Life challenges using Array Methods
 </a>
