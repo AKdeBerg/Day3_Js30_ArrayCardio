@@ -1,4 +1,4 @@
-# <h1 align="center"> 💪Get Ready for Array Cardio💪🏼 </h1>
+# <h1 align="center"> 💪🏼Get Ready for Array Cardio💪🏼 </h1>
 You think you know all about Js array? Alrighty, take these challenges from Wes Bos <a href="https://javascript30.com/">JavaScript30</a> to put your claim in test.
 I have done my part; boy!! it was one good workout session. 
 Let me share my experiece here-
